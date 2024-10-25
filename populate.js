@@ -15,7 +15,7 @@ const CSVToJSON = require("csvtojson");
 
 //Input Files
 const actor_inputFile = './input/actors.csv';
-const posts_inputFile = './input/posts.csv';
+const posts_inputFile = './input/MergedTweets.csv';
 //const replies_inputFile = './input/replies.csv';
 const notifications_inputFile = './input/notifications (read, like).csv';
 const notifications_replies_inputFile = './input/notifications (reply).csv';

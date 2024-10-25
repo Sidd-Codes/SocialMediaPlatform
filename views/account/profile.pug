@@ -1,0 +1,47 @@
+extends ../ui_layout
+
+block content
+  .sixteen.wide.column(style="margin-top: 2em; margin-bottom: 2em;")
+    h2(style="text-align: center;") Profile Information
+
+    form.ui.large.form(action='/account/profile', method='POST', enctype='multipart/form-data', id='profile')
+      input(type='hidden', name='_csrf', value=_csrf)
+      .field
+        label(for='email') Email
+        input.form-control(type='email', name='email', id='email', value=user.email)
+      .field
+        label(for='name') Name
+        input.form-control(type='text', name='name', id='name', value=user.profile.name)
+      .field
+        label(for='location') Location
+        input.form-control(type='text', name='location', id='location', value=user.profile.location)
+      .field
+        label(for='bio') Bio
+        textarea(rows='2', name='bio', id='bio')=user.profile.bio
+      .field.image-upload
+        p(style="font-weight: bold; font-size: medium; margin-bottom: 0.2em") Profile Picture 
+          span(style="font-weight: normal") (Click to Change)
+        label(for='picinput', style="width: fit-content")
+          if user.profile.picture
+            img#imgInp.ui.small.image(src='/user_avatar/'+user.profile.picture)
+          else
+            img#imgInp.ui.small.image(src=user.gravatar(60))
+        input#picinput(type='file', accept='image/*', capture='camera', name='picinput')
+      button.ui.large.button.disabled(type='submit') Update Profile
+    .ui.divider
+    h3.ui.header(style="margin-top: 2em;") Change Password
+    form.ui.large.form(action='/account/password', method='POST', id='password')
+      input(type='hidden', name='_csrf', value=_csrf)
+      .field
+        label(for='password') New Password
+        input.form-control(type='password', name='password', id='password', placeholder=' New Password', minlength="4", required)
+      .field
+        label(for='confirmPassword') Confirm Password 
+        input.form-control(type='password', name='confirmPassword', id='confirmPassword', placeholder='Confirm Password', minlength="4", required)
+        span(style="color: green; visibility:hidden")#passwordsMatch  
+            i.icon.check 
+            | Passwords Match
+      button.ui.large.button.disabled(type='submit') Change Password
+
+block scripts
+  script(src='/public/js/profile.js')

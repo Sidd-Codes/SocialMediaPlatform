@@ -1,0 +1,23 @@
+.ui.card
+  .image
+    if user.profile.picture
+      img(src='/user_avatar/'+user.profile.picture)
+    else
+      img(src=user.gravatar(60))
+  .content
+    a.header(href='/me')= user.profile.name || user.email || user.id
+    .meta="@"+user.username
+    .description(style='white-space: pre-wrap')=user.profile.bio
+    if user.profile.location
+      .description(style="margin-top: 5px;")
+        i.marker.icon
+        span=user.profile.location
+  .one.ui.bottom.attached.icon.buttons
+    button.ui.editprofile.button(data-tooltip='Update My Profile', data-position='bottom left')
+      i.write.icon
+
+script.
+  //Edit button
+  $('.ui.editprofile.button').on('click', function() {
+      window.location.href = '/account';
+  });

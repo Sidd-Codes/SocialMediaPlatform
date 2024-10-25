@@ -1,0 +1,1134 @@
+2024-09-26T11:51:51.497Z - Started populate.js script...
+2024-09-26T11:52:29.967Z - Attempting to connect to MongoDB...
+2024-09-26T11:52:29.980Z - Starting async operation 1...
+2024-09-26T11:52:30.481Z - Successfully connected to MongoDB.
+2024-09-26T11:52:30.982Z - Completed async operation 1.
+2024-09-26T11:52:30.985Z - Starting async operation 2...
+2024-09-26T11:52:31.320Z - Successfully loaded 284 posts from ./input/posts.csv
+2024-09-26T11:52:31.335Z - Successfully loaded 76 actors from ./input/actors.csv
+2024-09-26T11:52:31.986Z - Completed async operation 2.
+2024-09-26T11:54:53.929Z - Started populate.js script...
+2024-09-26T11:58:39.603Z - Attempting to connect to MongoDB...
+2024-09-26T11:58:39.617Z - Starting async operation 1...
+2024-09-26T11:58:40.048Z - Successfully connected to MongoDB.
+2024-09-26T11:58:40.098Z - Successfully loaded 284 posts from ./input/posts.csv
+2024-09-26T11:58:40.119Z - Successfully loaded 76 actors from ./input/actors.csv
+2024-09-26T11:58:40.619Z - Completed async operation 1.
+2024-09-26T11:58:40.621Z - Starting async operation 2...
+2024-09-26T11:58:41.622Z - Completed async operation 2.
+2024-09-26T11:58:41.623Z - Successfully completed all async operations.
+2024-09-26T11:58:41.633Z - Disconnected from MongoDB.
+2024-09-26T11:58:41.633Z - Closed MongoDB connection.
+2024-09-26T12:12:14.292Z - Attempting to connect to MongoDB...
+2024-09-26T12:12:14.308Z - Starting async operation 1...
+2024-09-26T12:12:14.325Z - Successfully loaded 76 actors from ./input/actors.csv
+2024-09-26T12:12:14.325Z - Added actor: Aikira Walker
+2024-09-26T12:12:14.325Z - Added actor: Alex Lee
+2024-09-26T12:12:14.325Z - Added actor: Yalonda Carter
+2024-09-26T12:12:14.325Z - Added actor: Riya
+2024-09-26T12:12:14.325Z - Added actor: Ataylor
+2024-09-26T12:12:14.325Z - Added actor: Maui Ayo
+2024-09-26T12:12:14.325Z - Added actor: Mike B.
+2024-09-26T12:12:14.326Z - Added actor: Emma Hanson
+2024-09-26T12:12:14.326Z - Added actor: Matthew McConville
+2024-09-26T12:12:14.326Z - Added actor: Ryan Haiskenen
+2024-09-26T12:12:14.326Z - Added actor: Aimee Lin
+2024-09-26T12:12:14.326Z - Added actor: Breanne Carman-Hines
+2024-09-26T12:12:14.326Z - Added actor: Tiana Brown
+2024-09-26T12:12:14.326Z - Added actor: Cassie Reed
+2024-09-26T12:12:14.326Z - Added actor: Hiran
+2024-09-26T12:12:14.326Z - Added actor: Ricky Hopkins
+2024-09-26T12:12:14.326Z - Added actor: clayton.myers
+2024-09-26T12:12:14.326Z - Added actor: Eva Matthews
+2024-09-26T12:12:14.326Z - Added actor: Suzanne
+2024-09-26T12:12:14.326Z - Added actor: Dana Cox
+2024-09-26T12:12:14.326Z - Added actor: Dominic DiFranzo
+2024-09-26T12:12:14.326Z - Added actor: DonnaHAMMERSMITH
+2024-09-26T12:12:14.326Z - Added actor: Sophia P.
+2024-09-26T12:12:14.326Z - Added actor: Emma Smith
+2024-09-26T12:12:14.326Z - Added actor: Emma Zhu
+2024-09-26T12:12:14.326Z - Added actor: MomFiona
+2024-09-26T12:12:14.326Z - Added actor: Max Cho
+2024-09-26T12:12:14.326Z - Added actor: GwenfromtheBlock
+2024-09-26T12:12:14.326Z - Added actor: Tracey Green
+2024-09-26T12:12:14.326Z - Added actor: Heather
+2024-09-26T12:12:14.326Z - Added actor: Karen Laretti
+2024-09-26T12:12:14.326Z - Added actor: Jake T.
+2024-09-26T12:12:14.327Z - Added actor: jcole
+2024-09-26T12:12:14.327Z - Added actor: Jin Ying
+2024-09-26T12:12:14.327Z - Added actor: John
+2024-09-26T12:12:14.327Z - Added actor: JuniperQ
+2024-09-26T12:12:14.327Z - Added actor: Jamie Taggart
+2024-09-26T12:12:14.327Z - Added actor: Karen M.
+2024-09-26T12:12:14.327Z - Added actor: KatieeeM
+2024-09-26T12:12:14.327Z - Added actor: KittyCatBakes
+2024-09-26T12:12:14.327Z - Added actor: Sofia
+2024-09-26T12:12:14.327Z - Added actor: Alexa Lee
+2024-09-26T12:12:14.327Z - Added actor: Lisa
+2024-09-26T12:12:14.327Z - Added actor: Elizabeth Newman
+2024-09-26T12:12:14.327Z - Added actor: Remy Lewis
+2024-09-26T12:12:14.327Z - Added actor: Lucy Gregory
+2024-09-26T12:12:14.327Z - Added actor: Mo Kapadia
+2024-09-26T12:12:14.327Z - Added actor: Manuel De Leon
+2024-09-26T12:12:14.327Z - Added actor: Marcel Bauld
+2024-09-26T12:12:14.327Z - Added actor: mariaann
+2024-09-26T12:12:14.327Z - Added actor: masterchefterry
+2024-09-26T12:12:14.327Z - Added actor: Mateo
+2024-09-26T12:12:14.327Z - Added actor: Ryan Loves TACO
+2024-09-26T12:12:14.327Z - Added actor: mewranda
+2024-09-26T12:12:14.327Z - Added actor: MrShazam
+2024-09-26T12:12:14.327Z - Added actor: Noah Marshall
+2024-09-26T12:12:14.327Z - Added actor: Shristi Patel
+2024-09-26T12:12:14.327Z - Added actor: Valeria Camilo
+2024-09-26T12:12:14.327Z - Added actor: Sam Kaldis
+2024-09-26T12:12:14.327Z - Added actor: Dennis Smith
+2024-09-26T12:12:14.327Z - Added actor: Bao
+2024-09-26T12:12:14.327Z - Added actor: Jake Owens
+2024-09-26T12:12:14.327Z - Added actor: Celia McCarron
+2024-09-26T12:12:14.327Z - Added actor: Sue Shaw
+2024-09-26T12:12:14.327Z - Added actor: Wendy
+2024-09-26T12:12:14.327Z - Added actor: Anna
+2024-09-26T12:12:14.327Z - Added actor: Santiago Coros
+2024-09-26T12:12:14.327Z - Added actor: TastyHae
+2024-09-26T12:12:14.327Z - Added actor: Jack Boy
+2024-09-26T12:12:14.327Z - Added actor: thisisalfie1999
+2024-09-26T12:12:14.327Z - Added actor: Dad Jenkins
+2024-09-26T12:12:14.327Z - Added actor: Tom Mallott
+2024-09-26T12:12:14.328Z - Added actor: VitaBOCA
+2024-09-26T12:12:14.328Z - Added actor: Wiz Khaleesi
+2024-09-26T12:12:14.328Z - Added actor: Michael Cunningham
+2024-09-26T12:12:14.328Z - Added actor: Joe G.
+2024-09-26T12:12:14.329Z - Successfully loaded 284 posts from ./input/posts.csv
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.329Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.330Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.331Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.332Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.333Z - Added post: undefined
+2024-09-26T12:12:14.790Z - Successfully connected to MongoDB.
+2024-09-26T12:12:15.311Z - Completed async operation 1.
+2024-09-26T12:12:15.312Z - Starting async operation 2...
+2024-09-26T12:12:16.314Z - Completed async operation 2.
+2024-09-26T12:12:16.315Z - Successfully completed all async operations.
+2024-09-26T12:12:16.325Z - Disconnected from MongoDB.
+2024-09-26T12:12:16.326Z - Closed MongoDB connection.
+2024-09-26T12:14:17.314Z - Attempting to connect to MongoDB...
+2024-09-26T12:14:17.320Z - Starting async operation 1...
+2024-09-26T12:14:17.326Z - Successfully loaded 76 actors from ./input/actors.csv
+2024-09-26T12:14:17.326Z - Added actor: Aikira Walker
+2024-09-26T12:14:17.326Z - Added actor: Alex Lee
+2024-09-26T12:14:17.326Z - Added actor: Yalonda Carter
+2024-09-26T12:14:17.326Z - Added actor: Riya
+2024-09-26T12:14:17.326Z - Added actor: Ataylor
+2024-09-26T12:14:17.326Z - Added actor: Maui Ayo
+2024-09-26T12:14:17.326Z - Added actor: Mike B.
+2024-09-26T12:14:17.326Z - Added actor: Emma Hanson
+2024-09-26T12:14:17.326Z - Added actor: Matthew McConville
+2024-09-26T12:14:17.326Z - Added actor: Ryan Haiskenen
+2024-09-26T12:14:17.326Z - Added actor: Aimee Lin
+2024-09-26T12:14:17.326Z - Added actor: Breanne Carman-Hines
+2024-09-26T12:14:17.326Z - Added actor: Tiana Brown
+2024-09-26T12:14:17.326Z - Added actor: Cassie Reed
+2024-09-26T12:14:17.326Z - Added actor: Hiran
+2024-09-26T12:14:17.326Z - Added actor: Ricky Hopkins
+2024-09-26T12:14:17.326Z - Added actor: clayton.myers
+2024-09-26T12:14:17.326Z - Added actor: Eva Matthews
+2024-09-26T12:14:17.326Z - Added actor: Suzanne
+2024-09-26T12:14:17.326Z - Added actor: Dana Cox
+2024-09-26T12:14:17.326Z - Added actor: Dominic DiFranzo
+2024-09-26T12:14:17.326Z - Added actor: DonnaHAMMERSMITH
+2024-09-26T12:14:17.326Z - Added actor: Sophia P.
+2024-09-26T12:14:17.326Z - Added actor: Emma Smith
+2024-09-26T12:14:17.326Z - Added actor: Emma Zhu
+2024-09-26T12:14:17.326Z - Added actor: MomFiona
+2024-09-26T12:14:17.326Z - Added actor: Max Cho
+2024-09-26T12:14:17.326Z - Added actor: GwenfromtheBlock
+2024-09-26T12:14:17.326Z - Added actor: Tracey Green
+2024-09-26T12:14:17.326Z - Added actor: Heather
+2024-09-26T12:14:17.326Z - Added actor: Karen Laretti
+2024-09-26T12:14:17.326Z - Added actor: Jake T.
+2024-09-26T12:14:17.326Z - Added actor: jcole
+2024-09-26T12:14:17.326Z - Added actor: Jin Ying
+2024-09-26T12:14:17.326Z - Added actor: John
+2024-09-26T12:14:17.327Z - Added actor: JuniperQ
+2024-09-26T12:14:17.327Z - Added actor: Jamie Taggart
+2024-09-26T12:14:17.327Z - Added actor: Karen M.
+2024-09-26T12:14:17.327Z - Added actor: KatieeeM
+2024-09-26T12:14:17.327Z - Added actor: KittyCatBakes
+2024-09-26T12:14:17.327Z - Added actor: Sofia
+2024-09-26T12:14:17.327Z - Added actor: Alexa Lee
+2024-09-26T12:14:17.327Z - Added actor: Lisa
+2024-09-26T12:14:17.327Z - Added actor: Elizabeth Newman
+2024-09-26T12:14:17.327Z - Added actor: Remy Lewis
+2024-09-26T12:14:17.327Z - Added actor: Lucy Gregory
+2024-09-26T12:14:17.327Z - Added actor: Mo Kapadia
+2024-09-26T12:14:17.327Z - Added actor: Manuel De Leon
+2024-09-26T12:14:17.327Z - Added actor: Marcel Bauld
+2024-09-26T12:14:17.327Z - Added actor: mariaann
+2024-09-26T12:14:17.327Z - Added actor: masterchefterry
+2024-09-26T12:14:17.327Z - Added actor: Mateo
+2024-09-26T12:14:17.327Z - Added actor: Ryan Loves TACO
+2024-09-26T12:14:17.327Z - Added actor: mewranda
+2024-09-26T12:14:17.327Z - Added actor: MrShazam
+2024-09-26T12:14:17.327Z - Added actor: Noah Marshall
+2024-09-26T12:14:17.327Z - Added actor: Shristi Patel
+2024-09-26T12:14:17.327Z - Added actor: Valeria Camilo
+2024-09-26T12:14:17.327Z - Added actor: Sam Kaldis
+2024-09-26T12:14:17.327Z - Added actor: Dennis Smith
+2024-09-26T12:14:17.327Z - Added actor: Bao
+2024-09-26T12:14:17.327Z - Added actor: Jake Owens
+2024-09-26T12:14:17.327Z - Added actor: Celia McCarron
+2024-09-26T12:14:17.327Z - Added actor: Sue Shaw
+2024-09-26T12:14:17.327Z - Added actor: Wendy
+2024-09-26T12:14:17.327Z - Added actor: Anna
+2024-09-26T12:14:17.327Z - Added actor: Santiago Coros
+2024-09-26T12:14:17.327Z - Added actor: TastyHae
+2024-09-26T12:14:17.327Z - Added actor: Jack Boy
+2024-09-26T12:14:17.327Z - Added actor: thisisalfie1999
+2024-09-26T12:14:17.327Z - Added actor: Dad Jenkins
+2024-09-26T12:14:17.327Z - Added actor: Tom Mallott
+2024-09-26T12:14:17.327Z - Added actor: VitaBOCA
+2024-09-26T12:14:17.327Z - Added actor: Wiz Khaleesi
+2024-09-26T12:14:17.327Z - Added actor: Michael Cunningham
+2024-09-26T12:14:17.327Z - Added actor: Joe G.
+2024-09-26T12:14:17.327Z - Successfully loaded 284 posts from ./input/posts.csv
+2024-09-26T12:14:17.327Z - Added post: The spiralizer got some use for brunch today! #cleaneating #veggielife
+2024-09-26T12:14:17.327Z - Added post: GORGEOUS spread at Saigon House for my sister's b-day dinner!
+2024-09-26T12:14:17.327Z - Added post: These tilapia fillets are CRAZY easy and super healthy! Just a sprinkle of dried dill, a squeeze of lemon, and 15 minutes in the oven!
+2024-09-26T12:14:17.327Z - Added post: When the light on the porch is so perfect it makes your leftovers look gourmet...
+2024-09-26T12:14:17.327Z - Added post: Mr. Matthews got me this hanger for my bananas... It's only been a day but I think they're already less beat-up than they would normally be!  Three cheers for modern technology.
+2024-09-26T12:14:17.327Z - Added post: Woke up late and only had time to grab one of these for breakfast. Can you say accidental splurge?
+2024-09-26T12:14:17.327Z - Added post: One of the moms from my K-2 class made these adorable pig cookies! How cute are they?!
+2024-09-26T12:14:17.327Z - Added post: "pizza" on zucchini slices is actually amazing! Love these easy low carb dinners.
+2024-09-26T12:14:17.327Z - Added post: can you believe how beautiful these farmer's market apples are? There are actually four or five different kinds here but I totally forget what they're called.
+2024-09-26T12:14:17.327Z - Added post: This amazing vegan goddess bowl (is it still a bowl if it's in styrofoam? haha) that I got at the farmer's market has like ten different things in it - mushrooms, kale, cilantro, peanuts, cabbage, seitan... I wish I remembered them all so I could make it at home!
+2024-09-26T12:14:17.327Z - Added post: nice layers
+2024-09-26T12:14:17.327Z - Added post: sprinkle and dot
+2024-09-26T12:14:17.327Z - Added post: a flaky feast
+2024-09-26T12:14:17.327Z - Added post: nice light for lettuce
+2024-09-26T12:14:17.327Z - Added post: strongly recommend this raspberry tart @ Copatelli's
+2024-09-26T12:14:17.327Z - Added post: perfect baguette
+2024-09-26T12:14:17.327Z - Added post: working breakfast
+2024-09-26T12:14:17.327Z - Added post: swordfish n broccoli rabe
+2024-09-26T12:14:17.327Z - Added post: mom's favorite
+2024-09-26T12:14:17.327Z - Added post: great fry presentation @ Avanti on 8th av
+2024-09-26T12:14:17.327Z - Added post: hidden strawberry 🍓
+2024-09-26T12:14:17.327Z - Added post: light lunch
+2024-09-26T12:14:17.327Z - Added post: extra cinnamon on my chai, please! <3 ☕
+2024-09-26T12:14:17.327Z - Added post: the fries were so-so but the pulled pork & fried onion sandwich was stellar!
+2024-09-26T12:14:17.327Z - Added post: zesty greek chickpea salad!
+2024-09-26T12:14:17.327Z - Added post: This ragout was so rich and meaty!
+2024-09-26T12:14:17.327Z - Added post: loved this spicy bratwurst lunch!
+2024-09-26T12:14:17.327Z - Added post: the filters on this chai are egregious but it was sooooooooooooo good!
+2024-09-26T12:14:17.327Z - Added post: spicy breakfast hash <33333
+2024-09-26T12:14:17.327Z - Added post: pretty good Thai pork! could have used more chiles but I'm still a fan.
+2024-09-26T12:14:17.327Z - Added post: it doesn't look like it, but this ramen was amazingly spicy! I think they also added some saffron to the broth too, there was something unusual in there... 🍜 ❤️
+2024-09-26T12:14:17.327Z - Added post: pro tip: alternate between garlic parm n spicy buffalo for a life-changing taste sensation
+2024-09-26T12:14:17.327Z - Added post: staying up til 3 to close the bar? this is what u need.
+2024-09-26T12:14:17.327Z - Added post: pancakes... my mom would be so proud lol
+2024-09-26T12:14:17.327Z - Added post: real cheeseburger or imposter? u guys decide
+2024-09-26T12:14:17.327Z - Added post: ya boy made spaghetti! looks like hair haha
+2024-09-26T12:14:17.327Z - Added post: that pasta from before all cooked up n ready for sauce
+2024-09-26T12:14:17.327Z - Added post: look at what my bro got in england lol
+2024-09-26T12:14:17.327Z - Added post: forgot to show the pics yesterday but when i made spaghetti i also made lasagna noodles, check out this cheese monster haha
+2024-09-26T12:14:17.327Z - Added post: every sandwich is better with fries in it lol
+2024-09-26T12:14:17.327Z - Added post: chunky or creamy? im a chunky man myself
+2024-09-26T12:14:17.327Z - Added post: I finally got around to trying to make chicken parm, you guys!
+2024-09-26T12:14:17.327Z - Added post: homemade spaghetti with that chicken parm i just posted! #pastaweek #yum
+2024-09-26T12:14:17.327Z - Added post: Look at these freaking adorable hand pies!! I really want to know what's in them, there was no sign on the display!
+2024-09-26T12:14:17.327Z - Added post: next up: ravioli!! just a ricotta/parmesan blend inside but I'm definitely branching out next time. Spinach? Butternut squash? Any other good ideas? #pastaweek #ravioli #yum
+2024-09-26T12:14:17.328Z - Added post: taking a break from #pastaweek for some crab rangoons... made with leftover pasta dough!! :D
+2024-09-26T12:14:17.328Z - Added post: I love that they also serve coffee on the adorable vintage china!!
+2024-09-26T12:14:17.328Z - Added post: so freaking excited for this #pastaweek creation... sausage, peppers & cream sauce!
+2024-09-26T12:14:17.328Z - Added post: forgot to post a pic of the CUTEST bear  🐻 bread (cake?) from the bakery earlier! has anyone had anything like this before? What's it like?
+2024-09-26T12:14:17.328Z - Added post: BREAD BOWLS! These ones got some creamy chicken and veggie soup. #breadbowls #yum
+2024-09-26T12:14:17.328Z - Added post: when your pizza gets squished on the way... don't worry, the garlic sauce was still intact! 🍕
+2024-09-26T12:14:17.328Z - Added post: donuts for lunch 🍩 🍩 🍩
+2024-09-26T12:14:17.328Z - Added post: can you believe this popsicle! anyway I thought it was going to be strawberry but it was actually bubblegum 😞
+2024-09-26T12:14:17.328Z - Added post: sad desk lunch? Just put it on a fancy plate! 😂
+2024-09-26T12:14:17.328Z - Added post: desk coffee counts as food, right?
+2024-09-26T12:14:17.328Z - Added post: homemade popsicle! this one is lemonade with cucumber. #refreshing
+2024-09-26T12:14:17.328Z - Added post: A first for me: cake with marshmallow cream frosting. The cake is somewhat less sweet to offset the sweetness of the icing. Definitely trying this one myself!
+2024-09-26T12:14:17.328Z - Added post: andother #homemade popsicle! this one is blueberry and cream. I need classier popsicle holders though... you can tell these are made for little kids...
+2024-09-26T12:14:17.328Z - Added post: sweet peppers and three different kinds of sausage: chorizo, bratwurst, blood sausage. I did not take ap icture of it when it was cooked but the blood sausage tastes almost like a hot dog only it has a crumbly texture inside
+2024-09-26T12:14:17.328Z - Added post: when you want ramen 🍜 but you only have plain spaghetti you can add a small amount of baking soda to the pasta cooking water to give it the chewy texture that ramen has. this batch has beef, mushrooms, green onion, and bok choy. make sure to rinse the pasta thoroughly or it tastes bad.
+2024-09-26T12:14:17.328Z - Added post: this said it was beer-battered fish and chips but I think it was just regular batter. I have made beer batter before and I could taste the beer then and I could not taste the beer flavor in this. but it was still good.
+2024-09-26T12:14:17.328Z - Added post: today I m braising these ribs. they are in a reduction with white wine and onions and garlic and some herbs. last time i made these they became not as soft as i wanted but im going to cook them at lower temperature this time and hope it comes out better
+2024-09-26T12:14:17.328Z - Added post: #breadoftheday: challah!
+2024-09-26T12:14:17.328Z - Added post: #breadoftheday: a rustic loaf that fell a little flat. It will make great crusty sandwiches though!
+2024-09-26T12:14:17.328Z - Added post: no bread today... but I did make funeral potatoes! #potluck
+2024-09-26T12:14:17.328Z - Added post: #breadoftheday: sourdough! I was amazed how well this held together. It's going to make amazing sandwiches!
+2024-09-26T12:14:17.328Z - Added post: I didn't manage to get great light for this photo but this lobster tail and artichoke with potato casserole were to die for. Just a little melted butter and... mmmm!  The kids don't love artichoke so they got broccoli instead.
+2024-09-26T12:14:17.328Z - Added post: A few weeks ago I saw a pinterest post that basically said "the only thing stopping you from dipping everything in chocolate is your own imagination". I never thought of it that way before! So of course I had to try dipping some ice cream sandwiches. They only lasted about 30 seconds after I took this picture!
+2024-09-26T12:14:17.328Z - Added post: I've been trying to keep everyone's plates at least 1/3 green.  Hubby and I are enjoying it- the kids not so much.
+2024-09-26T12:14:17.328Z - Added post: Early Thanksgiving Dinner :) sweet potato casserole is my favorite Thanksgiving dish!!
+2024-09-26T12:14:17.328Z - Added post: this omelet had bacon *and* sausage *and* ham in it
+2024-09-26T12:14:17.328Z - Added post: I wish i lived where this bagel place is. this thing was amazing
+2024-09-26T12:14:17.328Z - Added post: this was really good but when I order spaghetti and meatballs, I'm expecting meatballS, not one meatball
+2024-09-26T12:14:17.328Z - Added post: fries with hot sauce>>>>>fries without hot sauce 🍟🍟
+2024-09-26T12:14:17.328Z - Added post: The lasagna at Aiello's is 😍😍😍
+2024-09-26T12:14:17.328Z - Added post: I think I can remember that...
+2024-09-26T12:14:17.328Z - Added post: has anyone else tried this rolled ice cream? This one is matcha with berries (and a random oreo that I definitely didn't ask for, but who can complain?). It was so fun watching them make it!
+2024-09-26T12:14:17.328Z - Added post: first time making my own eggplant parm. looks good in the pan....
+2024-09-26T12:14:17.328Z - Added post: ...and it looks good on the plate too! :D
+2024-09-26T12:14:17.328Z - Added post: forget the congrats cake, get me a congrats pastry
+2024-09-26T12:14:17.328Z - Added post: jackfruit looks like a weapon but tastes pretty good. ft my bro Manny & his sweet hawaiian shirt
+2024-09-26T12:14:17.328Z - Added post: idk what these were called but they were kind of like sushi burritos
+2024-09-26T12:14:17.328Z - Added post: breakfast frm my gf's perspective. u can't tell but that's a chili cornbread waffle in the background
+2024-09-26T12:14:17.328Z - Added post: i didn't make this or take the pic but I did get to eat it. carnitas like this are what i want my last meal to be
+2024-09-26T12:14:17.328Z - Added post: this kind of breakfast is what I need every day
+2024-09-26T12:14:17.328Z - Added post: this was thai chile wings from yesterday. there were not enough but they were good
+2024-09-26T12:14:17.328Z - Added post: you know your wife loves you when she makes you a sandwich like this
+2024-09-26T12:14:17.328Z - Added post: panini ❤️
+2024-09-26T12:14:17.328Z - Added post: perfect berger 🍔 ❤️
+2024-09-26T12:14:17.328Z - Added post: homemade mint ice cream 🍦 💚
+2024-09-26T12:14:17.328Z - Added post: apricot tart  💛
+2024-09-26T12:14:17.328Z - Added post: not putting this one in my portfolio bc the visible lens cap is embarrassing. but this soup was so fresh-tasting!
+2024-09-26T12:14:17.328Z - Added post: who knew a lemon slice could be a work of art? 💛
+2024-09-26T12:14:17.328Z - Added post: turns out you really can make bread in a crock pot! 🍞 amazingly soft whole-grain bread too!
+2024-09-26T12:14:17.328Z - Added post: homemade soda! left: hibiscus, right: lemon ginger. so easy, and SO GOOD!
+2024-09-26T12:14:17.328Z - Added post: pepperoni n mushroom, the slice of life.
+2024-09-26T12:14:17.328Z - Added post: ill take one of each
+2024-09-26T12:14:17.328Z - Added post: when you cant decide whether to have a burger or a hotdog, put hotdog slices on ur burger
+2024-09-26T12:14:17.328Z - Added post: switching it up with ham n mushroom instead of my usual pepperoni n mushroom
+2024-09-26T12:14:17.328Z - Added post: like 20 instagram edits & filters later, my cappucino looks seriously professional ☕
+2024-09-26T12:14:17.328Z - Added post: the best breakfast ❤️❤️❤️
+2024-09-26T12:14:17.328Z - Added post: research and a lovely ☕
+2024-09-26T12:14:17.328Z - Added post: homemade ginger and molasses cake with lemon glaze. The recipe asked for only powdered ginger, but i put some fresh ginger in as well and it was perfect!
+2024-09-26T12:14:17.328Z - Added post: that ginger cake was perfect with some bosc pears... and after some homemade veggie chowder.
+2024-09-26T12:14:17.328Z - Added post: deep dish babyyyy
+2024-09-26T12:14:17.328Z - Added post: damn right, dem wings
+2024-09-26T12:14:17.328Z - Added post: korean bbq with my babes 🍖
+2024-09-26T12:14:17.328Z - Added post: carrying this chicken to work in my bag like...
+2024-09-26T12:14:17.328Z - Added post: everyone... these are CHOCOLATE MOOSES. They are literally made of chocolate. You can't see it but there's a little baby chocolate moose behind them.
+2024-09-26T12:14:17.328Z - Added post: amazing bread pudding for breakfast... excuse the random junk of normal life in the background...
+2024-09-26T12:14:17.328Z - Added post: I was digging through some old photos and wanted to share this baked squash that I made last fall.  The black specks aren't raisins, they're actually black currants - they have a kind of similar flavor but they seem so much fancier! Kind of like shallots are the fancier version of onions...
+2024-09-26T12:14:17.328Z - Added post: I love when the waffle shop gives you extra crunchy edges to snack on...
+2024-09-26T12:14:17.328Z - Added post: This bad boy was in the back of the freezer from last christmas. I'm kind of shocked it wasn't all eaten, but the "green icing swirl" might be a clue as to why.
+2024-09-26T12:14:17.328Z - Added post: I think this was technically a yorkshire pudding? The gravy was great though, and as you can see there was a lot of it!
+2024-09-26T12:14:17.328Z - Added post: This is what they're giving kids in movie theaters these days.  It's definitely creative... but even one of these sections would send my little man through the roof, so dad had to take over.
+2024-09-26T12:14:17.328Z - Added post: I can't take credit for cooking this one - that goes to my wife. But I told her it looked so gourmet that I had to post it!
+2024-09-26T12:14:17.328Z - Added post: Folks, you heard it here 1st! A peach skewered and roasted over coals is a sweet and soft treat. Be sure to peel the skin of before eating. 🍑
+2024-09-26T12:14:17.328Z - Added post: This brisket was not bad, but let's be honest, I've done better.
+2024-09-26T12:14:17.328Z - Added post: Normally I'm a meat man but i tried my hand at a new biscuit recipe this morning. This one has cheddar cheese and some of the same herbs that we use for the chicken seasoning.
+2024-09-26T12:14:17.328Z - Added post: Close up of the biscuit so you can see the cheese.
+2024-09-26T12:14:17.328Z - Added post: I'm going to wrap these in foil for the grill tonight
+2024-09-26T12:14:17.328Z - Added post: Presenting the results of testing the new bread pan my bf got me!  It's so square :D
+2024-09-26T12:14:17.328Z - Added post: My very first attempt at homemade bagels! There are several things you have to do to make them "bagel-y". I succeeded at the boiling process so they have bagel-like texture, but I didn't manage to find the malt powder to give them that extra bagel flavor. Still great with cream cheese though!
+2024-09-26T12:14:17.328Z - Added post: New kind of sourdough loaf! This one has a super crunchy crust and slices really well!
+2024-09-26T12:14:17.328Z - Added post: Throwback to when my bf and I got Starbucks in China and they labeled our cups "foreigner"! 😂
+2024-09-26T12:14:17.328Z - Added post: Another trial - pane sesamo! The recipe was from an old Italian cookbook that was a gift from my dad. The inside has a great sesame flavor too. Will definitely be making this one again.
+2024-09-26T12:14:17.328Z - Added post: my bf put this adorable spread together for my birthday.  those are roasted purple carrots in there with the microgreens!  he really knows how to make a girl happy (hint: it involves naturally sweetened whole grain nut bread...)
+2024-09-26T12:14:17.328Z - Added post: the best juices in Jeff City! Left: Carrot & mango. Right: banana & greens.
+2024-09-26T12:14:17.328Z - Added post: this veggie panini was perfect! there was the perfect amount of avocado to keep it juicy. I definitely did not miss the meat or cheese!
+2024-09-26T12:14:17.328Z - Added post: raw avocado and mushroom salad <3 <3  It requires a lot of slicing but it's sooooo worth it!
+2024-09-26T12:14:17.328Z - Added post: this is the cake I got for my mom for her b-day. enjoy, other mturkers
+2024-09-26T12:14:17.328Z - Added post: good looking chicken my wife made. hope its good enough for my $14 bonus lol
+2024-09-26T12:14:17.328Z - Added post: look at this PERFECT tomato from my dad's garden! the color is not exaggerated at all, it really is that bright in real life! #nofilter
+2024-09-26T12:14:17.328Z - Added post: making our own sushi! My rolls all came out uneven and squished so I got a picture of my friend's instead.
+2024-09-26T12:14:17.328Z - Added post: a little ranbow salad! soooooooooo much chopping though :P  #eatclean
+2024-09-26T12:14:17.328Z - Added post: tomato, broccoli, and cauliflower casserole for the week. Plus just a little bit of goat cheese, of course ;) #eatclean
+2024-09-26T12:14:17.328Z - Added post: sno-cone + whipped cream? I'll take it.
+2024-09-26T12:14:17.328Z - Added post: chinese-style shaved ice! this stuff is amazinggggg 🍧
+2024-09-26T12:14:17.328Z - Added post: honestly red velvet cake just tastes like cake, but this tastes like red velvet cake. I know that makes no sense but if you try it you'll get it!!
+2024-09-26T12:14:17.328Z - Added post: I feel like I've had a lot of shaved ice/ice cream lately? but this one was matcha flavored and had pink mochi AND pink pocky garnishes <3
+2024-09-26T12:14:17.328Z - Added post: homemade pizza w/ pesto, chicken, artichoke hearts, and feta cheese. The edges got a little burned but the flavors were great.
+2024-09-26T12:14:17.328Z - Added post: first homemade dumplings! There's pork, spring onions, and cabbage inside. eaten with napkins left over from Christmas.
+2024-09-26T12:14:17.328Z - Added post: dinner I forgot to post from a few nights ago - spinach salad w/ shrimp!
+2024-09-26T12:14:17.328Z - Added post: I spent for freaking EVER putting the carrot/zucchini/squash slices in place for this tart nd I COMPLETELY FORGOT TO ADD SALT. It's pretty enough that Id make it again but... do better next time, Riya!
+2024-09-26T12:14:17.328Z - Added post: for once I got to the dining hall early enough that there aren't randos in the background of my breakfast photo.
+2024-09-26T12:14:17.328Z - Added post: texas waffle, baby!
+2024-09-26T12:14:17.328Z - Added post: look at this bundt cake, my mama would be proud lol
+2024-09-26T12:14:17.328Z - Added post: dinner with the fam: sweet potato casserole with marshmallows. I baked it without the marshmallows until it was basically done, then put them on and put it under the broiler. And then of course I had to check it obsessively every minute or so to make sure they didn't burn.
+2024-09-26T12:14:17.328Z - Added post: strawberry and white chocolate scones for breakfast tomorrow. the dough was really sticky, I kind of think I may have used too much flour in the course of rolling/placing them... but nobody is going to complain because unless they combust in the oven they're going to be great.
+2024-09-26T12:14:17.328Z - Added post: lunch: the cutest cup of seafood chowder.
+2024-09-26T12:14:17.328Z - Added post: dinner with the fam: fish *and* shrimp, with brussels sprouts and spinach/potato casserole. the sprouts could have used some more seasoning but overall it was well-received.
+2024-09-26T12:14:17.328Z - Added post: splurge breakfast: waffle with strawberries, fresh whipped cream, and lemon curd. Jess got the one with chocolate chips but I forgot to grab a pic for y'all.
+2024-09-26T12:14:17.328Z - Added post: dinner with the fam: stir fried asparagus, chicken & peppers, and rice cakes
+2024-09-26T12:14:17.328Z - Added post: is an afternoon cold brew a bad idea? am I going to be so caffeinated I vibrate myself into an alternate plane of existence? let's find out!
+2024-09-26T12:14:17.328Z - Added post: maybe the afternoon cold brew was bad for my heart rate, but it gave me the energy to chop all these veggies and get them marinating for the potluck tomorrow.
+2024-09-26T12:14:17.328Z - Added post: dinner with the fam: quiche with onions, goat cheese, ham, and fresh thyme. The onions got a little burnt while baking but overall it was quite good.
+2024-09-26T12:14:17.328Z - Added post: dessert: pumpkin spice ice cream with a ginger cookie!
+2024-09-26T12:14:17.328Z - Added post: chili the wife made
+2024-09-26T12:14:17.328Z - Added post: i made this casserole
+2024-09-26T12:14:17.328Z - Added post: it's a party: brie and jam toasts
+2024-09-26T12:14:17.328Z - Added post: i had this pizza yesterday
+2024-09-26T12:14:17.328Z - Added post: all this bread is going to go on the grill
+2024-09-26T12:14:17.328Z - Added post: veggie omelet, healthy as f***
+2024-09-26T12:14:17.328Z - Added post: i loved this ramen (ft. my gf's hands)
+2024-09-26T12:14:17.328Z - Added post: To this day nothing still beats my mom's good old meatloaf...so good
+2024-09-26T12:14:17.328Z - Added post: who doesnt like a good burger??
+2024-09-26T12:14:17.328Z - Added post: Homemade or delivery? what do you think
+2024-09-26T12:14:17.328Z - Added post: Not much left in the fridge, had to get creative with leftovers pork and tomatoe soup
+2024-09-26T12:14:17.328Z - Added post: AFTERNOON SNACKTIME !!!
+2024-09-26T12:14:17.328Z - Added post: who knew my water could look so artsy
+2024-09-26T12:14:17.328Z - Added post: new recipe that I found online >>>> UNBELIEVABLE! If you're looking for tasty, semi-healthy treats check out gwtreats.com
+2024-09-26T12:14:17.328Z - Added post: pretty proud of myself after making this, amzing how good it can and feel and taste eating healthy!
+2024-09-26T12:14:17.328Z - Added post: Sushi, my guilty pleasure....california and salmon rolls. I'm spoiling myself today. Check out SushibyDave downtown on Locke Street, great food :)
+2024-09-26T12:14:17.328Z - Added post: Tried something new for the boys tonight. Made a beef teriyaki stir-fry with broccoli....Ryan was a big fan, Sammy not so much. Oh well, I'll take 1 for 2 :)
+2024-09-26T12:14:17.328Z - Added post: Throwback to some of our spooky treats from last Halloween. It's amazing what marshmellows and a little bit of icing can do lol
+2024-09-26T12:14:17.328Z - Added post: Still getting used to taking pictures of my food, but I think I'm getting the hang of it...thought this dinner deserved to be shared. YUM
+2024-09-26T12:14:17.328Z - Added post: It's always nice when I get some free time to do some baking :) This is one of my favourites; raisin cinnamon bread. An old family recipe!
+2024-09-26T12:14:17.328Z - Added post: here's my attempt at bruschetta aha not quite as good as Alberni's but not bad....the roomies liked it at least
+2024-09-26T12:14:17.328Z - Added post: Me and Murph went down to Louies Bar and Grill to watch the game, i couldn't resist taking a pic of their famous nacho platter
+2024-09-26T12:14:17.328Z - Added post: Meatballs baby
+2024-09-26T12:14:17.328Z - Added post: Trying to broaden my horizons a bit, this Spicy Thai Noodle dish was definitley different
+2024-09-26T12:14:17.328Z - Added post: Oh... hell... yesssss!
+2024-09-26T12:14:17.328Z - Added post: Dear all my friends in CA: this is disgusting. No thanks. (No offense but it's bad bro.)
+2024-09-26T12:14:17.328Z - Added post: Enjoying my favorite chicken parm! 🍝🍝🍝
+2024-09-26T12:14:17.328Z - Added post: 😂 Seen in Chelsea Market... tried it... it's good
+2024-09-26T12:14:17.328Z - Added post: When you want to be a pot plant but you're actually a dessert."
+2024-09-26T12:14:17.328Z - Added post: New dim sum place in Fort Smith! Best in the state for sure, similar to the one I tried in Chinatown in NYC!
+2024-09-26T12:14:17.328Z - Added post: Goofy tongue for a treat from my sweet Ben
+2024-09-26T12:14:17.328Z - Added post: It's sushi burrito kinda of lunch. 🍣 🌯
+2024-09-26T12:14:17.328Z - Added post: Who knows ethiopian food can be so good!
+2024-09-26T12:14:17.328Z - Added post: Some cakes that I baked for a pink-loving friend's wedding 💒
+2024-09-26T12:14:17.328Z - Added post: afternoon tea with my lil sis who really knows how to take a good photo lol
+2024-09-26T12:14:17.329Z - Added post: spicy noodles tonight!
+2024-09-26T12:14:17.329Z - Added post: Just my usual diet 🍗🍗
+2024-09-26T12:14:17.329Z - Added post: Had this in NYC, don't know what it's called but it tastes weirdly good lol
+2024-09-26T12:14:17.329Z - Added post: luke's lobsters is always the best...
+2024-09-26T12:14:17.329Z - Added post: I'm so hungry i can eat this whole thing by myself...
+2024-09-26T12:14:17.329Z - Added post: can't imagine my life without this #paella #blessed #spanishfood ♥️🥘
+2024-09-26T12:14:17.329Z - Added post: #tbt to some authentic #fishandchips that I had in London #betterthanamericanfoodlol
+2024-09-26T12:14:17.329Z - Added post: you gotta take advantage of the happy hours, especially when it involves oysters😏😏😏
+2024-09-26T12:14:17.329Z - Added post: AHHHHHH A R2D2 PUMPKIN THIS IS TOO CUTE OMG #starwars #nerdvegetable
+2024-09-26T12:14:17.329Z - Added post: A lovely dinner to celebrate our 10th wedding anniversary. Thank you Alice for being the most important person of my life!
+2024-09-26T12:14:17.329Z - Added post: Took my daughter to thai for the first time and she loved it.
+2024-09-26T12:14:17.329Z - Added post: Ramen for today's lunch with colleagues
+2024-09-26T12:14:17.329Z - Added post: Dinner with a client yesterday. Anybody knows what cuisine this is?
+2024-09-26T12:14:17.329Z - Added post: Japanese-style fries with mayo and bonito flakes. Real good!
+2024-09-26T12:14:17.329Z - Added post: 🌮🌮🌮Taco festival at the fairgrounds!
+2024-09-26T12:14:17.329Z - Added post: Egg Benidict for brunch on this Sunny but windy day. Iced coffee was... let's just say I can make better ones at home. Haha.
+2024-09-26T12:14:17.329Z - Added post: #tbt to last year when I was in Chicago having #ChicagoBagelAuthority
+2024-09-26T12:14:17.329Z - Added post: Cupcake alert at my office today. :D #TeamMicrosoft
+2024-09-26T12:14:17.329Z - Added post: Ramen.
+2024-09-26T12:14:17.329Z - Added post: Visited my brother at Cornell University today and they have their own hotel called "The Statler" and it has some amazing curry over rice for $7
+2024-09-26T12:14:17.329Z - Added post: Hanging out with the bitches today.
+2024-09-26T12:14:17.329Z - Added post: The Boil specialized in cajun in NYC. Looks good to me!
+2024-09-26T12:14:17.329Z - Added post: When you wanna be a doc but food is too good and you get fat.
+2024-09-26T12:14:17.329Z - Added post: More egg benidict :D #ExcuseMyLaptopWatchingModernFamily
+2024-09-26T12:14:17.329Z - Added post: Don't tell Samantha. lol
+2024-09-26T12:14:17.329Z - Added post: Good but, thanks but no thanks...
+2024-09-26T12:14:17.329Z - Added post: Old-fashioned Arkansas chocolate gravy and discuits, only I can undersatnd. #LoveMyMikeyhubbby
+2024-09-26T12:14:17.329Z - Added post: <3 Last year in Manchester, UK
+2024-09-26T12:14:17.329Z - Added post: They said post food stuff, so here's a GOOOOOOOOOOD food pic. #foodporn #asian360
+2024-09-26T12:14:17.329Z - Added post: Must cop 🔥
+2024-09-26T12:14:17.329Z - Added post: We tried something different this time for our monthly barbecue. It's KEBABs! We went out to fetch some lambs, instead of beef and they taste great. Come thru!
+2024-09-26T12:14:17.329Z - Added post: You are what you eat.
+2024-09-26T12:14:17.329Z - Added post: I got up early, so I cooked myself a breakfast. It wasn't half bad as I imagined it to be!
+2024-09-26T12:14:17.329Z - Added post: These calzones were so good. I had to take a picture of it.
+2024-09-26T12:14:17.329Z - Added post: Fried rice with blueberries and blue table!  🔵 🔵 🔵
+2024-09-26T12:14:17.329Z - Added post: Where my chili fam at! 🌶
+2024-09-26T12:14:17.329Z - Added post: It's pizza time.
+2024-09-26T12:14:17.329Z - Added post: Sushis are the best.
+2024-09-26T12:14:17.329Z - Added post: So what? It's my cheat day.
+2024-09-26T12:14:17.329Z - Added post: What would I do without you...
+2024-09-26T12:14:17.329Z - Added post: Mornings at its finest
+2024-09-26T12:14:17.329Z - Added post: The new sushi place downtown is AMAZING! They do wine-pairings too. I feel like I'll be coming in here more than I should.
+2024-09-26T12:14:17.329Z - Added post: I got these intense cravings for Thai food, so I got it! These padseeyus are the only things in life that never seem to disappoint me.
+2024-09-26T12:14:17.329Z - Added post: Sean had a pleasant surprise for me by cooking dinner for our anniversary! I'm so blessed to have this great cook in my life.
+2024-09-26T12:14:17.329Z - Added post: I'm not a fan of Sicily Italian pizzas, but Sean's is different!
+2024-09-26T12:14:17.329Z - Added post: Some fine wine and dine. 🍷🍷
+2024-09-26T12:14:17.329Z - Added post: Classy night out. Man, these turkeys are 🔥🔥🔥
+2024-09-26T12:14:17.329Z - Added post: Sunday brunch with the fam! I like my bacons little more toastier, but these pancakes were the bombs! 💣💣
+2024-09-26T12:14:17.329Z - Added post: Aren't they adorable?! I just had to get 'em after giving it a glance! They taste nothing like I've tasted before too.
+2024-09-26T12:14:17.329Z - Added post: I made some homemade chips!
+2024-09-26T12:14:17.329Z - Added post: Vegetables and fruits should be essential part of our diet. We eat too much meat and not enough veggies. Make sure to add beans and broccolis to your diet.
+2024-09-26T12:14:17.329Z - Added post: I tried baking breads for the first time, and overcooked my first batch. But, nothing cannot be fixed with some butter and peanut butter jelly!
+2024-09-26T12:14:17.329Z - Added post: My first homemade half hawaiian, half meatlover's pizza was cooked to perfection. Barb loved it too.
+2024-09-26T12:14:17.329Z - Added post: It was a sleepless night, so I treated myself with some insomnias.
+2024-09-26T12:14:17.329Z - Added post: Nothing can beat two cheese burgers.
+2024-09-26T12:14:17.329Z - Added post: If it isn't my favorite Papa Johnnys'!
+2024-09-26T12:14:17.329Z - Added post: The stove wasn't doing any good left alone, so I gave it some FAT companies.
+2024-09-26T12:14:17.329Z - Added post: Coming back home is the best. I can have Mama Lee's japchae!
+2024-09-26T12:14:17.329Z - Added post: Having the best dessert with my sis!
+2024-09-26T12:14:17.329Z - Added post: Homemade kimchi-jjigae made to perfection!
+2024-09-26T12:14:17.329Z - Added post: Today was a rough day, but I have my dakdoritang to cheer me up.
+2024-09-26T12:14:17.329Z - Added post: Just tried this Nigerian Beef Stew and it tastes awesome!! Here's the recipe I found online: https://tasty.co/recipe/nigerian-beef-stew
+2024-09-26T12:14:17.329Z - Added post: My daughter bought this cake and said she doesn't believe I can make one. Honestly there's instructions all over the internet...
+2024-09-26T12:14:17.329Z - Added post: https://tasty.co/recipe/stir-fry-inspired-by-migos This seems to be an easy way to cook stir fry... changed it a bit and still good!!
+2024-09-26T12:14:17.329Z - Added post: Everytime my kid buys bottled water like this I can't help but think about how much flouride is in there and how it's gonna kill us all!! Why wouldn't my kids just listen to me??
+2024-09-26T12:14:17.329Z - Added post: Every parent who takes their children to KFC is evil!! don't they know that KFC grows mutant chicken??
+2024-09-26T12:14:17.329Z - Added post: Found this online today... SO TRUE
+2024-09-26T12:14:17.329Z - Added post: Look how happy and cute my anne is awwww
+2024-09-26T12:14:17.329Z - Added post: only coffee and cinnamon roll can save me from this depressing mood now...
+2024-09-26T12:14:17.329Z - Added post: or I guess some nice wine can do that as well... #dreaming
+2024-09-26T12:14:17.329Z - Added post: this reminded me of you @ryanfitzs
+2024-09-26T12:14:17.329Z - Added post: last one I swear....had to post it for the city of brotherly love
+2024-09-26T12:14:17.329Z - Added post: The more you know
+2024-09-26T12:14:17.329Z - Added post: me when I walk into Earl's Buffet tonight
+2024-09-26T12:14:17.329Z - Added post: lololol me when I get home and mom hasn't starting cooking yet
+2024-09-26T12:14:17.329Z - Added post: Salad for lunch. #AccidentallyPutTooMuchDressing and cost me $15 :(
+2024-09-26T12:14:17.329Z - Added post: BF said he's coming over tonight... so... here's my lunch.
+2024-09-26T12:14:17.329Z - Added post: Still prefer vanilla better. #Workout #Protein #GayAtGym
+2024-09-26T12:14:17.329Z - Added post: My morning green goodie: Baby spinich, aloe vera jelly, 1-1.5 banana depending on size, 1 cup of water, 1/2 stock of celery
+2024-09-26T12:14:17.329Z - Added post: Chug chug chug with Fiona. #NoIrishTemper
+2024-09-26T12:14:17.329Z - Added post: good morning baltimore!
+2024-09-26T12:14:17.329Z - Added post: In love with these vitamins! Shout out to @vitaboca for this amazing creation! I've been using it every morning!
+2024-09-26T12:14:17.329Z - Added post: Save your money for what's important!! Or let that special someone you love know how much you care by helping them stay in shape or start their weight loss journey in the right direction with @vitaboca.
+2024-09-26T12:14:17.329Z - Added post: Wanna stop getting stressed about your weight? FOLLOW ME to learn about how you can get lean RIGHT NOW!
+2024-09-26T12:14:17.329Z - Added post: Proven to work years after years! These vitamins are the only ones in the market that will actually help your weight loss!
+2024-09-26T12:14:17.329Z - Added post: In love with these vitamins! Shout out to @vitaboca for this amazing creation! I've been using it every morning!
+2024-09-26T12:14:17.329Z - Added post: LOOK AT THIS: 8 week difference during the @vita_boca transformation challenge. I started at I believe it was 143 pounds and now I'm 132. I've been serious about what I'm doing since I started in January. This challenge though has made me realize how focused I can be and to not doubt myself. I wasn't going to do it at first because I thought I couldn't make another transformation since I have already lost a lot of weight but I'm glad I've worked my ass off and tested my limits.
+2024-09-26T12:14:17.329Z - Added post: Vitaboca contains a powerful combination of phytonutrient #superfoods sourced from around the world. This unique formula was designed to offer consumers the benefits of a product that supplies vitamins, minerals, super greens and superfruits ALL WITHOUT artificial colors, flavors or sweeteners.
+2024-09-26T12:14:17.329Z - Added post: this is my daily post
+2024-09-26T12:14:17.329Z - Added post: this is my daily post
+2024-09-26T12:14:17.329Z - Added post: this is my daily post
+2024-09-26T12:14:17.329Z - Added post: Love this so much!!!!!
+2024-09-26T12:14:17.780Z - Successfully connected to MongoDB.
+2024-09-26T12:14:18.322Z - Completed async operation 1.
+2024-09-26T12:14:18.323Z - Starting async operation 2...
+2024-09-26T12:14:19.324Z - Completed async operation 2.
+2024-09-26T12:14:19.325Z - Successfully completed all async operations.
+2024-09-26T12:14:19.339Z - Disconnected from MongoDB.
+2024-09-26T12:14:19.339Z - Closed MongoDB connection.
+2024-09-26T12:15:47.901Z - Attempting to connect to MongoDB...
+2024-09-26T12:15:47.906Z - Starting async operation 1...
+2024-09-26T12:15:47.912Z - Successfully loaded 76 actors from ./input/actors.csv
+2024-09-26T12:15:47.912Z - Added actor: Aikira Walker
+2024-09-26T12:15:47.912Z - Added actor: Alex Lee
+2024-09-26T12:15:47.912Z - Added actor: Yalonda Carter
+2024-09-26T12:15:47.912Z - Added actor: Riya
+2024-09-26T12:15:47.912Z - Added actor: Ataylor
+2024-09-26T12:15:47.912Z - Added actor: Maui Ayo
+2024-09-26T12:15:47.912Z - Added actor: Mike B.
+2024-09-26T12:15:47.912Z - Added actor: Emma Hanson
+2024-09-26T12:15:47.912Z - Added actor: Matthew McConville
+2024-09-26T12:15:47.912Z - Added actor: Ryan Haiskenen
+2024-09-26T12:15:47.912Z - Added actor: Aimee Lin
+2024-09-26T12:15:47.912Z - Added actor: Breanne Carman-Hines
+2024-09-26T12:15:47.912Z - Added actor: Tiana Brown
+2024-09-26T12:15:47.912Z - Added actor: Cassie Reed
+2024-09-26T12:15:47.912Z - Added actor: Hiran
+2024-09-26T12:15:47.913Z - Added actor: Ricky Hopkins
+2024-09-26T12:15:47.913Z - Added actor: clayton.myers
+2024-09-26T12:15:47.913Z - Added actor: Eva Matthews
+2024-09-26T12:15:47.913Z - Added actor: Suzanne
+2024-09-26T12:15:47.913Z - Added actor: Dana Cox
+2024-09-26T12:15:47.913Z - Added actor: Dominic DiFranzo
+2024-09-26T12:15:47.913Z - Added actor: DonnaHAMMERSMITH
+2024-09-26T12:15:47.913Z - Added actor: Sophia P.
+2024-09-26T12:15:47.913Z - Added actor: Emma Smith
+2024-09-26T12:15:47.913Z - Added actor: Emma Zhu
+2024-09-26T12:15:47.913Z - Added actor: MomFiona
+2024-09-26T12:15:47.913Z - Added actor: Max Cho
+2024-09-26T12:15:47.913Z - Added actor: GwenfromtheBlock
+2024-09-26T12:15:47.913Z - Added actor: Tracey Green
+2024-09-26T12:15:47.913Z - Added actor: Heather
+2024-09-26T12:15:47.913Z - Added actor: Karen Laretti
+2024-09-26T12:15:47.913Z - Added actor: Jake T.
+2024-09-26T12:15:47.913Z - Added actor: jcole
+2024-09-26T12:15:47.913Z - Added actor: Jin Ying
+2024-09-26T12:15:47.913Z - Added actor: John
+2024-09-26T12:15:47.913Z - Added actor: JuniperQ
+2024-09-26T12:15:47.913Z - Added actor: Jamie Taggart
+2024-09-26T12:15:47.913Z - Added actor: Karen M.
+2024-09-26T12:15:47.913Z - Added actor: KatieeeM
+2024-09-26T12:15:47.913Z - Added actor: KittyCatBakes
+2024-09-26T12:15:47.913Z - Added actor: Sofia
+2024-09-26T12:15:47.913Z - Added actor: Alexa Lee
+2024-09-26T12:15:47.913Z - Added actor: Lisa
+2024-09-26T12:15:47.913Z - Added actor: Elizabeth Newman
+2024-09-26T12:15:47.913Z - Added actor: Remy Lewis
+2024-09-26T12:15:47.913Z - Added actor: Lucy Gregory
+2024-09-26T12:15:47.913Z - Added actor: Mo Kapadia
+2024-09-26T12:15:47.913Z - Added actor: Manuel De Leon
+2024-09-26T12:15:47.913Z - Added actor: Marcel Bauld
+2024-09-26T12:15:47.913Z - Added actor: mariaann
+2024-09-26T12:15:47.913Z - Added actor: masterchefterry
+2024-09-26T12:15:47.913Z - Added actor: Mateo
+2024-09-26T12:15:47.913Z - Added actor: Ryan Loves TACO
+2024-09-26T12:15:47.913Z - Added actor: mewranda
+2024-09-26T12:15:47.913Z - Added actor: MrShazam
+2024-09-26T12:15:47.913Z - Added actor: Noah Marshall
+2024-09-26T12:15:47.913Z - Added actor: Shristi Patel
+2024-09-26T12:15:47.913Z - Added actor: Valeria Camilo
+2024-09-26T12:15:47.913Z - Added actor: Sam Kaldis
+2024-09-26T12:15:47.913Z - Added actor: Dennis Smith
+2024-09-26T12:15:47.913Z - Added actor: Bao
+2024-09-26T12:15:47.913Z - Added actor: Jake Owens
+2024-09-26T12:15:47.913Z - Added actor: Celia McCarron
+2024-09-26T12:15:47.913Z - Added actor: Sue Shaw
+2024-09-26T12:15:47.913Z - Added actor: Wendy
+2024-09-26T12:15:47.913Z - Added actor: Anna
+2024-09-26T12:15:47.913Z - Added actor: Santiago Coros
+2024-09-26T12:15:47.913Z - Added actor: TastyHae
+2024-09-26T12:15:47.913Z - Added actor: Jack Boy
+2024-09-26T12:15:47.913Z - Added actor: thisisalfie1999
+2024-09-26T12:15:47.913Z - Added actor: Dad Jenkins
+2024-09-26T12:15:47.913Z - Added actor: Tom Mallott
+2024-09-26T12:15:47.913Z - Added actor: VitaBOCA
+2024-09-26T12:15:47.913Z - Added actor: Wiz Khaleesi
+2024-09-26T12:15:47.913Z - Added actor: Michael Cunningham
+2024-09-26T12:15:47.913Z - Added actor: Joe G.
+2024-09-26T12:15:47.914Z - Successfully loaded 284 posts from ./input/posts.csv
+2024-09-26T12:15:47.914Z - Added post: The spiralizer got some use for brunch today! #cleaneating #veggielife
+2024-09-26T12:15:47.914Z - Added post: GORGEOUS spread at Saigon House for my sister's b-day dinner!
+2024-09-26T12:15:47.914Z - Added post: These tilapia fillets are CRAZY easy and super healthy! Just a sprinkle of dried dill, a squeeze of lemon, and 15 minutes in the oven!
+2024-09-26T12:15:47.914Z - Added post: When the light on the porch is so perfect it makes your leftovers look gourmet...
+2024-09-26T12:15:47.914Z - Added post: Mr. Matthews got me this hanger for my bananas... It's only been a day but I think they're already less beat-up than they would normally be!  Three cheers for modern technology.
+2024-09-26T12:15:47.914Z - Added post: Woke up late and only had time to grab one of these for breakfast. Can you say accidental splurge?
+2024-09-26T12:15:47.914Z - Added post: One of the moms from my K-2 class made these adorable pig cookies! How cute are they?!
+2024-09-26T12:15:47.914Z - Added post: "pizza" on zucchini slices is actually amazing! Love these easy low carb dinners.
+2024-09-26T12:15:47.914Z - Added post: can you believe how beautiful these farmer's market apples are? There are actually four or five different kinds here but I totally forget what they're called.
+2024-09-26T12:15:47.914Z - Added post: This amazing vegan goddess bowl (is it still a bowl if it's in styrofoam? haha) that I got at the farmer's market has like ten different things in it - mushrooms, kale, cilantro, peanuts, cabbage, seitan... I wish I remembered them all so I could make it at home!
+2024-09-26T12:15:47.914Z - Added post: nice layers
+2024-09-26T12:15:47.914Z - Added post: sprinkle and dot
+2024-09-26T12:15:47.914Z - Added post: a flaky feast
+2024-09-26T12:15:47.914Z - Added post: nice light for lettuce
+2024-09-26T12:15:47.914Z - Added post: strongly recommend this raspberry tart @ Copatelli's
+2024-09-26T12:15:47.914Z - Added post: perfect baguette
+2024-09-26T12:15:47.914Z - Added post: working breakfast
+2024-09-26T12:15:47.914Z - Added post: swordfish n broccoli rabe
+2024-09-26T12:15:47.914Z - Added post: mom's favorite
+2024-09-26T12:15:47.914Z - Added post: great fry presentation @ Avanti on 8th av
+2024-09-26T12:15:47.914Z - Added post: hidden strawberry 🍓
+2024-09-26T12:15:47.914Z - Added post: light lunch
+2024-09-26T12:15:47.914Z - Added post: extra cinnamon on my chai, please! <3 ☕
+2024-09-26T12:15:47.914Z - Added post: the fries were so-so but the pulled pork & fried onion sandwich was stellar!
+2024-09-26T12:15:47.914Z - Added post: zesty greek chickpea salad!
+2024-09-26T12:15:47.914Z - Added post: This ragout was so rich and meaty!
+2024-09-26T12:15:47.914Z - Added post: loved this spicy bratwurst lunch!
+2024-09-26T12:15:47.914Z - Added post: the filters on this chai are egregious but it was sooooooooooooo good!
+2024-09-26T12:15:47.914Z - Added post: spicy breakfast hash <33333
+2024-09-26T12:15:47.914Z - Added post: pretty good Thai pork! could have used more chiles but I'm still a fan.
+2024-09-26T12:15:47.914Z - Added post: it doesn't look like it, but this ramen was amazingly spicy! I think they also added some saffron to the broth too, there was something unusual in there... 🍜 ❤️
+2024-09-26T12:15:47.914Z - Added post: pro tip: alternate between garlic parm n spicy buffalo for a life-changing taste sensation
+2024-09-26T12:15:47.914Z - Added post: staying up til 3 to close the bar? this is what u need.
+2024-09-26T12:15:47.914Z - Added post: pancakes... my mom would be so proud lol
+2024-09-26T12:15:47.914Z - Added post: real cheeseburger or imposter? u guys decide
+2024-09-26T12:15:47.914Z - Added post: ya boy made spaghetti! looks like hair haha
+2024-09-26T12:15:47.914Z - Added post: that pasta from before all cooked up n ready for sauce
+2024-09-26T12:15:47.914Z - Added post: look at what my bro got in england lol
+2024-09-26T12:15:47.914Z - Added post: forgot to show the pics yesterday but when i made spaghetti i also made lasagna noodles, check out this cheese monster haha
+2024-09-26T12:15:47.914Z - Added post: every sandwich is better with fries in it lol
+2024-09-26T12:15:47.914Z - Added post: chunky or creamy? im a chunky man myself
+2024-09-26T12:15:47.914Z - Added post: I finally got around to trying to make chicken parm, you guys!
+2024-09-26T12:15:47.914Z - Added post: homemade spaghetti with that chicken parm i just posted! #pastaweek #yum
+2024-09-26T12:15:47.914Z - Added post: Look at these freaking adorable hand pies!! I really want to know what's in them, there was no sign on the display!
+2024-09-26T12:15:47.914Z - Added post: next up: ravioli!! just a ricotta/parmesan blend inside but I'm definitely branching out next time. Spinach? Butternut squash? Any other good ideas? #pastaweek #ravioli #yum
+2024-09-26T12:15:47.914Z - Added post: taking a break from #pastaweek for some crab rangoons... made with leftover pasta dough!! :D
+2024-09-26T12:15:47.914Z - Added post: I love that they also serve coffee on the adorable vintage china!!
+2024-09-26T12:15:47.914Z - Added post: so freaking excited for this #pastaweek creation... sausage, peppers & cream sauce!
+2024-09-26T12:15:47.914Z - Added post: forgot to post a pic of the CUTEST bear  🐻 bread (cake?) from the bakery earlier! has anyone had anything like this before? What's it like?
+2024-09-26T12:15:47.914Z - Added post: BREAD BOWLS! These ones got some creamy chicken and veggie soup. #breadbowls #yum
+2024-09-26T12:15:47.914Z - Added post: when your pizza gets squished on the way... don't worry, the garlic sauce was still intact! 🍕
+2024-09-26T12:15:47.914Z - Added post: donuts for lunch 🍩 🍩 🍩
+2024-09-26T12:15:47.914Z - Added post: can you believe this popsicle! anyway I thought it was going to be strawberry but it was actually bubblegum 😞
+2024-09-26T12:15:47.914Z - Added post: sad desk lunch? Just put it on a fancy plate! 😂
+2024-09-26T12:15:47.914Z - Added post: desk coffee counts as food, right?
+2024-09-26T12:15:47.914Z - Added post: homemade popsicle! this one is lemonade with cucumber. #refreshing
+2024-09-26T12:15:47.914Z - Added post: A first for me: cake with marshmallow cream frosting. The cake is somewhat less sweet to offset the sweetness of the icing. Definitely trying this one myself!
+2024-09-26T12:15:47.914Z - Added post: andother #homemade popsicle! this one is blueberry and cream. I need classier popsicle holders though... you can tell these are made for little kids...
+2024-09-26T12:15:47.914Z - Added post: sweet peppers and three different kinds of sausage: chorizo, bratwurst, blood sausage. I did not take ap icture of it when it was cooked but the blood sausage tastes almost like a hot dog only it has a crumbly texture inside
+2024-09-26T12:15:47.914Z - Added post: when you want ramen 🍜 but you only have plain spaghetti you can add a small amount of baking soda to the pasta cooking water to give it the chewy texture that ramen has. this batch has beef, mushrooms, green onion, and bok choy. make sure to rinse the pasta thoroughly or it tastes bad.
+2024-09-26T12:15:47.914Z - Added post: this said it was beer-battered fish and chips but I think it was just regular batter. I have made beer batter before and I could taste the beer then and I could not taste the beer flavor in this. but it was still good.
+2024-09-26T12:15:47.914Z - Added post: today I m braising these ribs. they are in a reduction with white wine and onions and garlic and some herbs. last time i made these they became not as soft as i wanted but im going to cook them at lower temperature this time and hope it comes out better
+2024-09-26T12:15:47.914Z - Added post: #breadoftheday: challah!
+2024-09-26T12:15:47.914Z - Added post: #breadoftheday: a rustic loaf that fell a little flat. It will make great crusty sandwiches though!
+2024-09-26T12:15:47.914Z - Added post: no bread today... but I did make funeral potatoes! #potluck
+2024-09-26T12:15:47.914Z - Added post: #breadoftheday: sourdough! I was amazed how well this held together. It's going to make amazing sandwiches!
+2024-09-26T12:15:47.914Z - Added post: I didn't manage to get great light for this photo but this lobster tail and artichoke with potato casserole were to die for. Just a little melted butter and... mmmm!  The kids don't love artichoke so they got broccoli instead.
+2024-09-26T12:15:47.914Z - Added post: A few weeks ago I saw a pinterest post that basically said "the only thing stopping you from dipping everything in chocolate is your own imagination". I never thought of it that way before! So of course I had to try dipping some ice cream sandwiches. They only lasted about 30 seconds after I took this picture!
+2024-09-26T12:15:47.914Z - Added post: I've been trying to keep everyone's plates at least 1/3 green.  Hubby and I are enjoying it- the kids not so much.
+2024-09-26T12:15:47.914Z - Added post: Early Thanksgiving Dinner :) sweet potato casserole is my favorite Thanksgiving dish!!
+2024-09-26T12:15:47.914Z - Added post: this omelet had bacon *and* sausage *and* ham in it
+2024-09-26T12:15:47.914Z - Added post: I wish i lived where this bagel place is. this thing was amazing
+2024-09-26T12:15:47.914Z - Added post: this was really good but when I order spaghetti and meatballs, I'm expecting meatballS, not one meatball
+2024-09-26T12:15:47.914Z - Added post: fries with hot sauce>>>>>fries without hot sauce 🍟🍟
+2024-09-26T12:15:47.914Z - Added post: The lasagna at Aiello's is 😍😍😍
+2024-09-26T12:15:47.914Z - Added post: I think I can remember that...
+2024-09-26T12:15:47.914Z - Added post: has anyone else tried this rolled ice cream? This one is matcha with berries (and a random oreo that I definitely didn't ask for, but who can complain?). It was so fun watching them make it!
+2024-09-26T12:15:47.914Z - Added post: first time making my own eggplant parm. looks good in the pan....
+2024-09-26T12:15:47.914Z - Added post: ...and it looks good on the plate too! :D
+2024-09-26T12:15:47.914Z - Added post: forget the congrats cake, get me a congrats pastry
+2024-09-26T12:15:47.914Z - Added post: jackfruit looks like a weapon but tastes pretty good. ft my bro Manny & his sweet hawaiian shirt
+2024-09-26T12:15:47.914Z - Added post: idk what these were called but they were kind of like sushi burritos
+2024-09-26T12:15:47.914Z - Added post: breakfast frm my gf's perspective. u can't tell but that's a chili cornbread waffle in the background
+2024-09-26T12:15:47.914Z - Added post: i didn't make this or take the pic but I did get to eat it. carnitas like this are what i want my last meal to be
+2024-09-26T12:15:47.914Z - Added post: this kind of breakfast is what I need every day
+2024-09-26T12:15:47.914Z - Added post: this was thai chile wings from yesterday. there were not enough but they were good
+2024-09-26T12:15:47.914Z - Added post: you know your wife loves you when she makes you a sandwich like this
+2024-09-26T12:15:47.914Z - Added post: panini ❤️
+2024-09-26T12:15:47.914Z - Added post: perfect berger 🍔 ❤️
+2024-09-26T12:15:47.914Z - Added post: homemade mint ice cream 🍦 💚
+2024-09-26T12:15:47.914Z - Added post: apricot tart  💛
+2024-09-26T12:15:47.914Z - Added post: not putting this one in my portfolio bc the visible lens cap is embarrassing. but this soup was so fresh-tasting!
+2024-09-26T12:15:47.914Z - Added post: who knew a lemon slice could be a work of art? 💛
+2024-09-26T12:15:47.914Z - Added post: turns out you really can make bread in a crock pot! 🍞 amazingly soft whole-grain bread too!
+2024-09-26T12:15:47.914Z - Added post: homemade soda! left: hibiscus, right: lemon ginger. so easy, and SO GOOD!
+2024-09-26T12:15:47.914Z - Added post: pepperoni n mushroom, the slice of life.
+2024-09-26T12:15:47.914Z - Added post: ill take one of each
+2024-09-26T12:15:47.914Z - Added post: when you cant decide whether to have a burger or a hotdog, put hotdog slices on ur burger
+2024-09-26T12:15:47.914Z - Added post: switching it up with ham n mushroom instead of my usual pepperoni n mushroom
+2024-09-26T12:15:47.914Z - Added post: like 20 instagram edits & filters later, my cappucino looks seriously professional ☕
+2024-09-26T12:15:47.914Z - Added post: the best breakfast ❤️❤️❤️
+2024-09-26T12:15:47.914Z - Added post: research and a lovely ☕
+2024-09-26T12:15:47.914Z - Added post: homemade ginger and molasses cake with lemon glaze. The recipe asked for only powdered ginger, but i put some fresh ginger in as well and it was perfect!
+2024-09-26T12:15:47.914Z - Added post: that ginger cake was perfect with some bosc pears... and after some homemade veggie chowder.
+2024-09-26T12:15:47.914Z - Added post: deep dish babyyyy
+2024-09-26T12:15:47.914Z - Added post: damn right, dem wings
+2024-09-26T12:15:47.914Z - Added post: korean bbq with my babes 🍖
+2024-09-26T12:15:47.914Z - Added post: carrying this chicken to work in my bag like...
+2024-09-26T12:15:47.914Z - Added post: everyone... these are CHOCOLATE MOOSES. They are literally made of chocolate. You can't see it but there's a little baby chocolate moose behind them.
+2024-09-26T12:15:47.914Z - Added post: amazing bread pudding for breakfast... excuse the random junk of normal life in the background...
+2024-09-26T12:15:47.914Z - Added post: I was digging through some old photos and wanted to share this baked squash that I made last fall.  The black specks aren't raisins, they're actually black currants - they have a kind of similar flavor but they seem so much fancier! Kind of like shallots are the fancier version of onions...
+2024-09-26T12:15:47.914Z - Added post: I love when the waffle shop gives you extra crunchy edges to snack on...
+2024-09-26T12:15:47.914Z - Added post: This bad boy was in the back of the freezer from last christmas. I'm kind of shocked it wasn't all eaten, but the "green icing swirl" might be a clue as to why.
+2024-09-26T12:15:47.914Z - Added post: I think this was technically a yorkshire pudding? The gravy was great though, and as you can see there was a lot of it!
+2024-09-26T12:15:47.914Z - Added post: This is what they're giving kids in movie theaters these days.  It's definitely creative... but even one of these sections would send my little man through the roof, so dad had to take over.
+2024-09-26T12:15:47.914Z - Added post: I can't take credit for cooking this one - that goes to my wife. But I told her it looked so gourmet that I had to post it!
+2024-09-26T12:15:47.914Z - Added post: Folks, you heard it here 1st! A peach skewered and roasted over coals is a sweet and soft treat. Be sure to peel the skin of before eating. 🍑
+2024-09-26T12:15:47.914Z - Added post: This brisket was not bad, but let's be honest, I've done better.
+2024-09-26T12:15:47.914Z - Added post: Normally I'm a meat man but i tried my hand at a new biscuit recipe this morning. This one has cheddar cheese and some of the same herbs that we use for the chicken seasoning.
+2024-09-26T12:15:47.914Z - Added post: Close up of the biscuit so you can see the cheese.
+2024-09-26T12:15:47.914Z - Added post: I'm going to wrap these in foil for the grill tonight
+2024-09-26T12:15:47.914Z - Added post: Presenting the results of testing the new bread pan my bf got me!  It's so square :D
+2024-09-26T12:15:47.914Z - Added post: My very first attempt at homemade bagels! There are several things you have to do to make them "bagel-y". I succeeded at the boiling process so they have bagel-like texture, but I didn't manage to find the malt powder to give them that extra bagel flavor. Still great with cream cheese though!
+2024-09-26T12:15:47.914Z - Added post: New kind of sourdough loaf! This one has a super crunchy crust and slices really well!
+2024-09-26T12:15:47.914Z - Added post: Throwback to when my bf and I got Starbucks in China and they labeled our cups "foreigner"! 😂
+2024-09-26T12:15:47.914Z - Added post: Another trial - pane sesamo! The recipe was from an old Italian cookbook that was a gift from my dad. The inside has a great sesame flavor too. Will definitely be making this one again.
+2024-09-26T12:15:47.914Z - Added post: my bf put this adorable spread together for my birthday.  those are roasted purple carrots in there with the microgreens!  he really knows how to make a girl happy (hint: it involves naturally sweetened whole grain nut bread...)
+2024-09-26T12:15:47.915Z - Added post: the best juices in Jeff City! Left: Carrot & mango. Right: banana & greens.
+2024-09-26T12:15:47.915Z - Added post: this veggie panini was perfect! there was the perfect amount of avocado to keep it juicy. I definitely did not miss the meat or cheese!
+2024-09-26T12:15:47.915Z - Added post: raw avocado and mushroom salad <3 <3  It requires a lot of slicing but it's sooooo worth it!
+2024-09-26T12:15:47.915Z - Added post: this is the cake I got for my mom for her b-day. enjoy, other mturkers
+2024-09-26T12:15:47.915Z - Added post: good looking chicken my wife made. hope its good enough for my $14 bonus lol
+2024-09-26T12:15:47.915Z - Added post: look at this PERFECT tomato from my dad's garden! the color is not exaggerated at all, it really is that bright in real life! #nofilter
+2024-09-26T12:15:47.915Z - Added post: making our own sushi! My rolls all came out uneven and squished so I got a picture of my friend's instead.
+2024-09-26T12:15:47.915Z - Added post: a little ranbow salad! soooooooooo much chopping though :P  #eatclean
+2024-09-26T12:15:47.915Z - Added post: tomato, broccoli, and cauliflower casserole for the week. Plus just a little bit of goat cheese, of course ;) #eatclean
+2024-09-26T12:15:47.915Z - Added post: sno-cone + whipped cream? I'll take it.
+2024-09-26T12:15:47.915Z - Added post: chinese-style shaved ice! this stuff is amazinggggg 🍧
+2024-09-26T12:15:47.915Z - Added post: honestly red velvet cake just tastes like cake, but this tastes like red velvet cake. I know that makes no sense but if you try it you'll get it!!
+2024-09-26T12:15:47.915Z - Added post: I feel like I've had a lot of shaved ice/ice cream lately? but this one was matcha flavored and had pink mochi AND pink pocky garnishes <3
+2024-09-26T12:15:47.915Z - Added post: homemade pizza w/ pesto, chicken, artichoke hearts, and feta cheese. The edges got a little burned but the flavors were great.
+2024-09-26T12:15:47.915Z - Added post: first homemade dumplings! There's pork, spring onions, and cabbage inside. eaten with napkins left over from Christmas.
+2024-09-26T12:15:47.915Z - Added post: dinner I forgot to post from a few nights ago - spinach salad w/ shrimp!
+2024-09-26T12:15:47.915Z - Added post: I spent for freaking EVER putting the carrot/zucchini/squash slices in place for this tart nd I COMPLETELY FORGOT TO ADD SALT. It's pretty enough that Id make it again but... do better next time, Riya!
+2024-09-26T12:15:47.915Z - Added post: for once I got to the dining hall early enough that there aren't randos in the background of my breakfast photo.
+2024-09-26T12:15:47.915Z - Added post: texas waffle, baby!
+2024-09-26T12:15:47.915Z - Added post: look at this bundt cake, my mama would be proud lol
+2024-09-26T12:15:47.915Z - Added post: dinner with the fam: sweet potato casserole with marshmallows. I baked it without the marshmallows until it was basically done, then put them on and put it under the broiler. And then of course I had to check it obsessively every minute or so to make sure they didn't burn.
+2024-09-26T12:15:47.915Z - Added post: strawberry and white chocolate scones for breakfast tomorrow. the dough was really sticky, I kind of think I may have used too much flour in the course of rolling/placing them... but nobody is going to complain because unless they combust in the oven they're going to be great.
+2024-09-26T12:15:47.915Z - Added post: lunch: the cutest cup of seafood chowder.
+2024-09-26T12:15:47.915Z - Added post: dinner with the fam: fish *and* shrimp, with brussels sprouts and spinach/potato casserole. the sprouts could have used some more seasoning but overall it was well-received.
+2024-09-26T12:15:47.915Z - Added post: splurge breakfast: waffle with strawberries, fresh whipped cream, and lemon curd. Jess got the one with chocolate chips but I forgot to grab a pic for y'all.
+2024-09-26T12:15:47.915Z - Added post: dinner with the fam: stir fried asparagus, chicken & peppers, and rice cakes
+2024-09-26T12:15:47.915Z - Added post: is an afternoon cold brew a bad idea? am I going to be so caffeinated I vibrate myself into an alternate plane of existence? let's find out!
+2024-09-26T12:15:47.915Z - Added post: maybe the afternoon cold brew was bad for my heart rate, but it gave me the energy to chop all these veggies and get them marinating for the potluck tomorrow.
+2024-09-26T12:15:47.915Z - Added post: dinner with the fam: quiche with onions, goat cheese, ham, and fresh thyme. The onions got a little burnt while baking but overall it was quite good.
+2024-09-26T12:15:47.915Z - Added post: dessert: pumpkin spice ice cream with a ginger cookie!
+2024-09-26T12:15:47.915Z - Added post: chili the wife made
+2024-09-26T12:15:47.915Z - Added post: i made this casserole
+2024-09-26T12:15:47.915Z - Added post: it's a party: brie and jam toasts
+2024-09-26T12:15:47.915Z - Added post: i had this pizza yesterday
+2024-09-26T12:15:47.915Z - Added post: all this bread is going to go on the grill
+2024-09-26T12:15:47.915Z - Added post: veggie omelet, healthy as f***
+2024-09-26T12:15:47.915Z - Added post: i loved this ramen (ft. my gf's hands)
+2024-09-26T12:15:47.915Z - Added post: To this day nothing still beats my mom's good old meatloaf...so good
+2024-09-26T12:15:47.915Z - Added post: who doesnt like a good burger??
+2024-09-26T12:15:47.915Z - Added post: Homemade or delivery? what do you think
+2024-09-26T12:15:47.915Z - Added post: Not much left in the fridge, had to get creative with leftovers pork and tomatoe soup
+2024-09-26T12:15:47.915Z - Added post: AFTERNOON SNACKTIME !!!
+2024-09-26T12:15:47.915Z - Added post: who knew my water could look so artsy
+2024-09-26T12:15:47.915Z - Added post: new recipe that I found online >>>> UNBELIEVABLE! If you're looking for tasty, semi-healthy treats check out gwtreats.com
+2024-09-26T12:15:47.915Z - Added post: pretty proud of myself after making this, amzing how good it can and feel and taste eating healthy!
+2024-09-26T12:15:47.915Z - Added post: Sushi, my guilty pleasure....california and salmon rolls. I'm spoiling myself today. Check out SushibyDave downtown on Locke Street, great food :)
+2024-09-26T12:15:47.915Z - Added post: Tried something new for the boys tonight. Made a beef teriyaki stir-fry with broccoli....Ryan was a big fan, Sammy not so much. Oh well, I'll take 1 for 2 :)
+2024-09-26T12:15:47.915Z - Added post: Throwback to some of our spooky treats from last Halloween. It's amazing what marshmellows and a little bit of icing can do lol
+2024-09-26T12:15:47.915Z - Added post: Still getting used to taking pictures of my food, but I think I'm getting the hang of it...thought this dinner deserved to be shared. YUM
+2024-09-26T12:15:47.915Z - Added post: It's always nice when I get some free time to do some baking :) This is one of my favourites; raisin cinnamon bread. An old family recipe!
+2024-09-26T12:15:47.915Z - Added post: here's my attempt at bruschetta aha not quite as good as Alberni's but not bad....the roomies liked it at least
+2024-09-26T12:15:47.915Z - Added post: Me and Murph went down to Louies Bar and Grill to watch the game, i couldn't resist taking a pic of their famous nacho platter
+2024-09-26T12:15:47.915Z - Added post: Meatballs baby
+2024-09-26T12:15:47.915Z - Added post: Trying to broaden my horizons a bit, this Spicy Thai Noodle dish was definitley different
+2024-09-26T12:15:47.915Z - Added post: Oh... hell... yesssss!
+2024-09-26T12:15:47.915Z - Added post: Dear all my friends in CA: this is disgusting. No thanks. (No offense but it's bad bro.)
+2024-09-26T12:15:47.915Z - Added post: Enjoying my favorite chicken parm! 🍝🍝🍝
+2024-09-26T12:15:47.915Z - Added post: 😂 Seen in Chelsea Market... tried it... it's good
+2024-09-26T12:15:47.915Z - Added post: When you want to be a pot plant but you're actually a dessert."
+2024-09-26T12:15:47.915Z - Added post: New dim sum place in Fort Smith! Best in the state for sure, similar to the one I tried in Chinatown in NYC!
+2024-09-26T12:15:47.915Z - Added post: Goofy tongue for a treat from my sweet Ben
+2024-09-26T12:15:47.915Z - Added post: It's sushi burrito kinda of lunch. 🍣 🌯
+2024-09-26T12:15:47.915Z - Added post: Who knows ethiopian food can be so good!
+2024-09-26T12:15:47.915Z - Added post: Some cakes that I baked for a pink-loving friend's wedding 💒
+2024-09-26T12:15:47.915Z - Added post: afternoon tea with my lil sis who really knows how to take a good photo lol
+2024-09-26T12:15:47.915Z - Added post: spicy noodles tonight!
+2024-09-26T12:15:47.915Z - Added post: Just my usual diet 🍗🍗
+2024-09-26T12:15:47.915Z - Added post: Had this in NYC, don't know what it's called but it tastes weirdly good lol
+2024-09-26T12:15:47.915Z - Added post: luke's lobsters is always the best...
+2024-09-26T12:15:47.915Z - Added post: I'm so hungry i can eat this whole thing by myself...
+2024-09-26T12:15:47.915Z - Added post: can't imagine my life without this #paella #blessed #spanishfood ♥️🥘
+2024-09-26T12:15:47.915Z - Added post: #tbt to some authentic #fishandchips that I had in London #betterthanamericanfoodlol
+2024-09-26T12:15:47.915Z - Added post: you gotta take advantage of the happy hours, especially when it involves oysters😏😏😏
+2024-09-26T12:15:47.915Z - Added post: AHHHHHH A R2D2 PUMPKIN THIS IS TOO CUTE OMG #starwars #nerdvegetable
+2024-09-26T12:15:47.915Z - Added post: A lovely dinner to celebrate our 10th wedding anniversary. Thank you Alice for being the most important person of my life!
+2024-09-26T12:15:47.915Z - Added post: Took my daughter to thai for the first time and she loved it.
+2024-09-26T12:15:47.915Z - Added post: Ramen for today's lunch with colleagues
+2024-09-26T12:15:47.915Z - Added post: Dinner with a client yesterday. Anybody knows what cuisine this is?
+2024-09-26T12:15:47.915Z - Added post: Japanese-style fries with mayo and bonito flakes. Real good!
+2024-09-26T12:15:47.915Z - Added post: 🌮🌮🌮Taco festival at the fairgrounds!
+2024-09-26T12:15:47.915Z - Added post: Egg Benidict for brunch on this Sunny but windy day. Iced coffee was... let's just say I can make better ones at home. Haha.
+2024-09-26T12:15:47.915Z - Added post: #tbt to last year when I was in Chicago having #ChicagoBagelAuthority
+2024-09-26T12:15:47.915Z - Added post: Cupcake alert at my office today. :D #TeamMicrosoft
+2024-09-26T12:15:47.915Z - Added post: Ramen.
+2024-09-26T12:15:47.915Z - Added post: Visited my brother at Cornell University today and they have their own hotel called "The Statler" and it has some amazing curry over rice for $7
+2024-09-26T12:15:47.915Z - Added post: Hanging out with the bitches today.
+2024-09-26T12:15:47.915Z - Added post: The Boil specialized in cajun in NYC. Looks good to me!
+2024-09-26T12:15:47.915Z - Added post: When you wanna be a doc but food is too good and you get fat.
+2024-09-26T12:15:47.915Z - Added post: More egg benidict :D #ExcuseMyLaptopWatchingModernFamily
+2024-09-26T12:15:47.915Z - Added post: Don't tell Samantha. lol
+2024-09-26T12:15:47.915Z - Added post: Good but, thanks but no thanks...
+2024-09-26T12:15:47.915Z - Added post: Old-fashioned Arkansas chocolate gravy and discuits, only I can undersatnd. #LoveMyMikeyhubbby
+2024-09-26T12:15:47.915Z - Added post: <3 Last year in Manchester, UK
+2024-09-26T12:15:47.915Z - Added post: They said post food stuff, so here's a GOOOOOOOOOOD food pic. #foodporn #asian360
+2024-09-26T12:15:47.915Z - Added post: Must cop 🔥
+2024-09-26T12:15:47.915Z - Added post: We tried something different this time for our monthly barbecue. It's KEBABs! We went out to fetch some lambs, instead of beef and they taste great. Come thru!
+2024-09-26T12:15:47.915Z - Added post: You are what you eat.
+2024-09-26T12:15:47.915Z - Added post: I got up early, so I cooked myself a breakfast. It wasn't half bad as I imagined it to be!
+2024-09-26T12:15:47.915Z - Added post: These calzones were so good. I had to take a picture of it.
+2024-09-26T12:15:47.915Z - Added post: Fried rice with blueberries and blue table!  🔵 🔵 🔵
+2024-09-26T12:15:47.915Z - Added post: Where my chili fam at! 🌶
+2024-09-26T12:15:47.915Z - Added post: It's pizza time.
+2024-09-26T12:15:47.915Z - Added post: Sushis are the best.
+2024-09-26T12:15:47.915Z - Added post: So what? It's my cheat day.
+2024-09-26T12:15:47.915Z - Added post: What would I do without you...
+2024-09-26T12:15:47.915Z - Added post: Mornings at its finest
+2024-09-26T12:15:47.915Z - Added post: The new sushi place downtown is AMAZING! They do wine-pairings too. I feel like I'll be coming in here more than I should.
+2024-09-26T12:15:47.915Z - Added post: I got these intense cravings for Thai food, so I got it! These padseeyus are the only things in life that never seem to disappoint me.
+2024-09-26T12:15:47.915Z - Added post: Sean had a pleasant surprise for me by cooking dinner for our anniversary! I'm so blessed to have this great cook in my life.
+2024-09-26T12:15:47.915Z - Added post: I'm not a fan of Sicily Italian pizzas, but Sean's is different!
+2024-09-26T12:15:47.915Z - Added post: Some fine wine and dine. 🍷🍷
+2024-09-26T12:15:47.915Z - Added post: Classy night out. Man, these turkeys are 🔥🔥🔥
+2024-09-26T12:15:47.915Z - Added post: Sunday brunch with the fam! I like my bacons little more toastier, but these pancakes were the bombs! 💣💣
+2024-09-26T12:15:47.915Z - Added post: Aren't they adorable?! I just had to get 'em after giving it a glance! They taste nothing like I've tasted before too.
+2024-09-26T12:15:47.915Z - Added post: I made some homemade chips!
+2024-09-26T12:15:47.915Z - Added post: Vegetables and fruits should be essential part of our diet. We eat too much meat and not enough veggies. Make sure to add beans and broccolis to your diet.
+2024-09-26T12:15:47.915Z - Added post: I tried baking breads for the first time, and overcooked my first batch. But, nothing cannot be fixed with some butter and peanut butter jelly!
+2024-09-26T12:15:47.915Z - Added post: My first homemade half hawaiian, half meatlover's pizza was cooked to perfection. Barb loved it too.
+2024-09-26T12:15:47.915Z - Added post: It was a sleepless night, so I treated myself with some insomnias.
+2024-09-26T12:15:47.915Z - Added post: Nothing can beat two cheese burgers.
+2024-09-26T12:15:47.915Z - Added post: If it isn't my favorite Papa Johnnys'!
+2024-09-26T12:15:47.915Z - Added post: The stove wasn't doing any good left alone, so I gave it some FAT companies.
+2024-09-26T12:15:47.915Z - Added post: Coming back home is the best. I can have Mama Lee's japchae!
+2024-09-26T12:15:47.915Z - Added post: Having the best dessert with my sis!
+2024-09-26T12:15:47.915Z - Added post: Homemade kimchi-jjigae made to perfection!
+2024-09-26T12:15:47.915Z - Added post: Today was a rough day, but I have my dakdoritang to cheer me up.
+2024-09-26T12:15:47.915Z - Added post: Just tried this Nigerian Beef Stew and it tastes awesome!! Here's the recipe I found online: https://tasty.co/recipe/nigerian-beef-stew
+2024-09-26T12:15:47.915Z - Added post: My daughter bought this cake and said she doesn't believe I can make one. Honestly there's instructions all over the internet...
+2024-09-26T12:15:47.915Z - Added post: https://tasty.co/recipe/stir-fry-inspired-by-migos This seems to be an easy way to cook stir fry... changed it a bit and still good!!
+2024-09-26T12:15:47.915Z - Added post: Everytime my kid buys bottled water like this I can't help but think about how much flouride is in there and how it's gonna kill us all!! Why wouldn't my kids just listen to me??
+2024-09-26T12:15:47.915Z - Added post: Every parent who takes their children to KFC is evil!! don't they know that KFC grows mutant chicken??
+2024-09-26T12:15:47.915Z - Added post: Found this online today... SO TRUE
+2024-09-26T12:15:47.915Z - Added post: Look how happy and cute my anne is awwww
+2024-09-26T12:15:47.915Z - Added post: only coffee and cinnamon roll can save me from this depressing mood now...
+2024-09-26T12:15:47.915Z - Added post: or I guess some nice wine can do that as well... #dreaming
+2024-09-26T12:15:47.915Z - Added post: this reminded me of you @ryanfitzs
+2024-09-26T12:15:47.915Z - Added post: last one I swear....had to post it for the city of brotherly love
+2024-09-26T12:15:47.915Z - Added post: The more you know
+2024-09-26T12:15:47.915Z - Added post: me when I walk into Earl's Buffet tonight
+2024-09-26T12:15:47.915Z - Added post: lololol me when I get home and mom hasn't starting cooking yet
+2024-09-26T12:15:47.915Z - Added post: Salad for lunch. #AccidentallyPutTooMuchDressing and cost me $15 :(
+2024-09-26T12:15:47.915Z - Added post: BF said he's coming over tonight... so... here's my lunch.
+2024-09-26T12:15:47.915Z - Added post: Still prefer vanilla better. #Workout #Protein #GayAtGym
+2024-09-26T12:15:47.915Z - Added post: My morning green goodie: Baby spinich, aloe vera jelly, 1-1.5 banana depending on size, 1 cup of water, 1/2 stock of celery
+2024-09-26T12:15:47.915Z - Added post: Chug chug chug with Fiona. #NoIrishTemper
+2024-09-26T12:15:47.915Z - Added post: good morning baltimore!
+2024-09-26T12:15:47.915Z - Added post: In love with these vitamins! Shout out to @vitaboca for this amazing creation! I've been using it every morning!
+2024-09-26T12:15:47.915Z - Added post: Save your money for what's important!! Or let that special someone you love know how much you care by helping them stay in shape or start their weight loss journey in the right direction with @vitaboca.
+2024-09-26T12:15:47.915Z - Added post: Wanna stop getting stressed about your weight? FOLLOW ME to learn about how you can get lean RIGHT NOW!
+2024-09-26T12:15:47.915Z - Added post: Proven to work years after years! These vitamins are the only ones in the market that will actually help your weight loss!
+2024-09-26T12:15:47.915Z - Added post: In love with these vitamins! Shout out to @vitaboca for this amazing creation! I've been using it every morning!
+2024-09-26T12:15:47.915Z - Added post: LOOK AT THIS: 8 week difference during the @vita_boca transformation challenge. I started at I believe it was 143 pounds and now I'm 132. I've been serious about what I'm doing since I started in January. This challenge though has made me realize how focused I can be and to not doubt myself. I wasn't going to do it at first because I thought I couldn't make another transformation since I have already lost a lot of weight but I'm glad I've worked my ass off and tested my limits.
+2024-09-26T12:15:47.915Z - Added post: Vitaboca contains a powerful combination of phytonutrient #superfoods sourced from around the world. This unique formula was designed to offer consumers the benefits of a product that supplies vitamins, minerals, super greens and superfruits ALL WITHOUT artificial colors, flavors or sweeteners.
+2024-09-26T12:15:47.915Z - Added post: this is my daily post
+2024-09-26T12:15:47.915Z - Added post: this is my daily post
+2024-09-26T12:15:47.915Z - Added post: this is my daily post
+2024-09-26T12:15:47.915Z - Added post: Love this so much!!!!!
+2024-09-26T12:15:48.487Z - Successfully connected to MongoDB.
+2024-09-26T12:15:48.908Z - Completed async operation 1.
+2024-09-26T12:15:48.909Z - Starting async operation 2...
+2024-09-26T12:15:49.910Z - Completed async operation 2.
+2024-09-26T12:15:49.910Z - Successfully completed all async operations.
+2024-09-26T12:15:49.918Z - Disconnected from MongoDB.
+2024-09-26T12:15:49.918Z - Closed MongoDB connection.
